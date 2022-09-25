@@ -1,17 +1,6 @@
 <html> 
   <head> 
     
-    <!--
-    convert grab0001.png -crop 360x336+112+100 g1.png
-    convert g1.png -alpha copy -channel alpha -negate +channel -fx '#000' g1A.png
-    convert g1A.png g2A.png g3A.png +append final.png
-    
-    
-    for file in `ls grab0*`; do convert $file -crop 360x336+112+100 A$file; done
-    for file in `ls Agrab0*`; do convert $file -alpha copy -channel alpha -negate +channel -fx '#000' AA$file; done
-    convert `ls AAA*.png -1 | tr '\n' ' '` +append final.png
-    -->
-    
     <script src="//codef.santo.fr/codef/codef_core.js"></script> 
     <script src="js/jquery-1.12.4.js"></script>
     <script src="js/jquery-ui.js"></script>
