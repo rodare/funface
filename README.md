@@ -1,6 +1,8 @@
 # CODEF_Funface
 A CODEF remake of Funface ( Mac / Atari ST / Amiga ) coded using [CODEF](https://codef.santo.fr)
 
+For your information, this tool was used by scotland yard, and other police and intelligence organisations during the 80's
+
 ## Usage
 Too easy to Use ;)
 
