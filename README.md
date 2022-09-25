@@ -6,6 +6,8 @@ For your information, this tool was used by scotland yard, and other police and 
 ## Usage
 Too easy to Use ;)
 
+FYI : you can share the auto generated URL to share your work ;)
+
 ## Some work done with it
 
 [![](README_Medias/cff800.png)](https://raw.githubusercontent.com/N0NameN0/CODEF_Funface/master/README_Medias/cff.png)
