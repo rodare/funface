@@ -4,7 +4,7 @@ A CODEF remake of Funface ( Mac / Atari ST / Amiga ) coded using [CODEF](https:/
 For your information, this tool was used by scotland yard, and other police and intelligence organisations during the 80's
 
 ## Usage
-Too easy to Use ;)
+Too easy to use ;)
 
 FYI : you can share the auto generated URL to share your work ;)
 
