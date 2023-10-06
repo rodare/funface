@@ -10,7 +10,7 @@ FYI : you can share the auto generated URL to share your work ;)
 
 ## Some work done with it
 
-[![](README_Medias/cff800.png)](https://raw.githubusercontent.com/N0NameN0/CODEF_Funface/master/README_Medias/cff.png)
+[![](README_Medias/cff800.png)](README_Medias/cff.png)
 
 
 ## Try it Live
